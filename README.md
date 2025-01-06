@@ -4,7 +4,7 @@
 
 ### サイトをご覧になる場合
 
-こちらで公開しています: //TODO
+こちらで公開しています: <https://ks-kclc.github.io/course-kyopro/>
 
 ### ローカルでサイトをご覧になる場合・編集する場合
 
@@ -44,9 +44,8 @@ mkdocs serve
 
 ### `gh-pages` ブランチ
 
-GitHub Actions によって出力されたファイルのブランチです。自動化されているのでノータッチです。
-
-//TODO はここがソースです。GitHub Pages によりbuildされています。
+GitHub Actions によって出力されたファイルのブランチです。自動化されているのでノータッチです。  
+<https://ks-kclc.github.io/course-kyopro/> はここがソースです。GitHub Pages によりbuildされています。
 
 ## 謝辞
 

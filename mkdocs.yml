@@ -1,10 +1,12 @@
-site_name: KCLC Course Page
-site_url: https://kclc-kaisei.github.io/
-repo_url: https://github.com/kclc-kaisei/kclc-kaisei.github.io/
-repo_name: kclc-kaisei/kclc-kaisei.github.io
+site_name: KCLC 競プロ講座
+site_url: https://ks-KCLC.github.io/course-kyopro/
 site_author: KCLC
 site_description: >-
-  KCLC Course Page
+  KCLC 競プロ講座です。
+
+repo_name: ks-KCLC/course-kyopro
+repo_url: https://github.com/ks-KCLC/course-kyopro
+
 theme:
   name: material
   # custom_dir: overrides
@@ -19,9 +21,9 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/kclc-kaisei/kclc-kaisei.github.io
+      link: https://github.com/ks-KCLC/course-kyopro
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/42ndKCLC
+      link: https://twitter.com/ks_KCLC
 
 markdown_extensions:
   # extension for syntax highlight

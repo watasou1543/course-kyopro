@@ -12,4 +12,19 @@ Atcoderでの実行環境、最初は割とおすすめです
 
 ＊注意点・・・コンテストが始まる前にページを開いてもコードテストボタンはないので気をつけてください
 
-### ・
+### ・Wandbox
+(https://wandbox.org/)
+
+左のボタンで言語選択ができる
+
+見やすいがAtcoderライブラリなるものが使えないので注意が必要
+
+### ・paiza
+(https://paiza.io/ja/projects/new?language=cpp)
+
+部長はゴミだと言っていますが割と有用です、見やすいので是非使ってみてください
+
+### ・VSCODE
+部員は大体みんなこれを使っています、下の動画がすごくわかりやすいので言うとおりにしよう！
+
+(https://www.youtube.com/watch?v=uhnASau7fB4)

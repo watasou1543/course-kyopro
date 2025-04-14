@@ -1,6 +1,6 @@
 # 競技プログラミングをするときに使ったおすすめサイト
 
-## 便利系サイト
+## 一般・おすすめサイト
 ### ・Atcoder problems 
 (https://kenkoooo.com/atcoder/#/table/)
 

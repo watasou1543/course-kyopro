@@ -12,6 +12,7 @@
         "tag:yaml.org,2002:python/object/apply:pymdownx.slugs.slugify mapping"
     ],
     "[markdown]": {
-        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one",
+        "editor.wordWrap": "bounded"
     }
 }

@@ -9,14 +9,10 @@ repo_url: https://github.com/ks-KCLC/course-kyopro
 
 theme:
   name: material
-  # custom_dir: overrides
   language: ja
   favicon: assets/img/favicon.ico
   features:
     - navigation.tabs
-  palette:
-    accent: green
-    primary: deep orange
 
 extra:
   social:
@@ -25,67 +21,15 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/ks_KCLC
 
-markdown_extensions:
-  # extension for syntax highlight
-  # - codehilite
-  # - codehilite:
-  #     linenums: true
-
-  - markdown.extensions.admonition
-  - markdown.extensions.attr_list
-  - markdown.extensions.def_list
-  - markdown.extensions.footnotes
-  - markdown.extensions.meta
-  - markdown.extensions.toc:
-      permalink: true
-  - pymdownx.arithmatex:
-      generic: true
-  - pymdownx.caret
-  - pymdownx.critic
-  - pymdownx.details
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-  - pymdownx.highlight
-  - pymdownx.inlinehilite
-  - pymdownx.keys
-  - pymdownx.magiclink:
-      repo_url_shorthand: true
-      user: squidfunk
-      repo: mkdocs-material
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.snippets:
-      check_paths: true
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.tabbed
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
-
-extra_javascript:
-  - javascripts/config.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-
-plugins:
-  - search
-  # - macros
-  # - git-revision-date-localized
-
 nav:
   - Home: index.md
   - Course:
+      - 講座一覧: articles/index.md
       - 第0章-はじめに: articles/chapter0/index.md
       - 第1章-コードの実行: articles/chapter1/index.md
       - 第2章-C++の基礎文法: articles/chapter2/index.md
       - 第3章-競技プログラミングとは: articles/chapter3/index.md
-      - 付録1-2進法大好き!souta_1326君!: articles/huroku1/index.md
-
+      - 付録1-2進法大好き!souta_1326君!: articles/furoku1/index.md
   - APG4b:
       - 第1章:
           - 1.00.はじめに: APG4b/1-0/index.md

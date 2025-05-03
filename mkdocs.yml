@@ -46,8 +46,8 @@ nav:
       - 第1章-コードの実行: course/chapter1/index.md
       - 第2章-C++の基礎文法: course/chapter2/index.md
       - 第3章-競技プログラミングとは: course/chapter3/index.md
-      - 付録1 進法大好き!souta_1326君!: course/furoku1/index.md
-      - 付録2 二分探索: course/furoku2/index.md
+      - 付録① 進法大好き!souta_1326君!: course/furoku1/index.md
+      - 付録② 二分探索: course/furoku2/index.md
   - APG4b:
       - 第1章:
           - 1.00.はじめに: APG4b/1-0/index.md

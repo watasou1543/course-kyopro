@@ -15,14 +15,7 @@ pip install mkdocs
 pip install mkdocs-material
 ```
 
-次に、サイトに必要なファイルを生成します。
-
-```sh
-mkdocs build
-mkdocs serve
-```
-
-`mkdocs serve` を実行しながら、[http://127.0.0.1:8000](http://127.0.0.1:8000) にアクセスしてください。
+`mkdocs serve` を実行しながら、<http://127.0.0.1:8000/course-kyopro/> にアクセスしてください。
 
 ## 構成
 

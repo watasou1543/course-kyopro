@@ -1,24 +1,22 @@
-1.11.for文・break・continue
-========================
+# 1.11.for文・break・continue
 
 [APG4bの該当ページ](https://atcoder.jp/contests/APG4b/tasks/APG4b_l){:target="_blank"}
 
-### コメント
+## コメント
 
-for文はめっちゃ使います。最初のうちは分かりづらいですが問題をたくさん解いて慣れましょう。
-for文は `for(初期設定;条件;更新処理)`と書きます。
+for文はめっちゃ使います。最初のうちは分かりづらいですが問題をたくさん解いて慣れましょう。  
+for文は `for(初期設定; 条件; 更新処理)`と書きます。
 
-とりあえず `for(int i = 0;i < (繰り返す回数);i++)`
+とりあえず `for(int i = 0; i < (繰り返す回数); i++)`  
 というひな形を覚えておいて、忘れたら上の書き方を思い出す感じでいいと思います。
 
-APG4b内でrepというマクロが紹介されていました。このマクロは使う人もいれば使わない人もいます。
+APG4b内でrepというマクロが紹介されていました。このマクロは使う人もいれば使わない人もいます。  
 使いたければ使ってください。
 
-### 演習問題
+## 演習問題
 
 今回は結構多いですが、for文は大事なのでしっかり解きましょう。
 また、余裕があればwhile文を使って解いてみるのもいいかもしれません。
-
 
 - [EX11 - 電卓をつくろう2](https://atcoder.jp/contests/APG4b/tasks/APG4b_cl){:target="_blank"}
 - [B - Hina Arare](https://atcoder.jp/contests/abc089/tasks/abc089_b){:target="_blank"}

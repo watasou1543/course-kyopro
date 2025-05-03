@@ -1,15 +1,12 @@
-1.06.if文・比較演算子・論理演算子
-====================
+# 1.06.if文・比較演算子・論理演算子
 
 [APG4bの該当ページ](https://atcoder.jp/contests/APG4b/tasks/APG4b_g){:target="_blank"}
 
-### コメント
+## コメント
 
 条件処理もかなり使います。というかここらへんでやっていることは全部よく使います。
 
-### 演習問題
-
-前の章と同じくらいの量です。頑張って解いてください。
+## 演習問題
 
 - [EX6 - 電卓をつくろう](https://atcoder.jp/contests/APG4b/tasks/APG4b_cq){:target="_blank"}
 - [A - Infinite Coins](https://atcoder.jp/contests/abc088/tasks/abc088_a){:target="_blank"}

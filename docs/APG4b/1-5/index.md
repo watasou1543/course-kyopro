@@ -1,16 +1,15 @@
-1.05.実行順序と入力
-============
+# 1.05.実行順序と入力
 
 [APG4bの該当ページ](https://atcoder.jp/contests/APG4b/tasks/APG4b_f)
 
-### コメント
+## コメント
 
 入力、出力、四則演算が出来れば色々な問題が解けるようになります。
 
-### 演習問題
+## 演習問題
 
-いきなり問題の量が増えて驚くかもしれませんが頑張って解いてください。
-
+いきなり問題の量が増えて驚くかもしれませんが頑張って解きましょう！  
+ただ、もちろん安定して解けるようであれば全て解く必要はありません。
 
 - [A - New Year](https://atcoder.jp/contests/abc084/tasks/abc084_a)
 - [A - Rating Goal](https://atcoder.jp/contests/abc076/tasks/abc076_a)

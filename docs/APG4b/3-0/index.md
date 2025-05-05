@@ -1,13 +1,12 @@
-3.00.第3章について
-============
+# 3.00.第3章について
 
 [APG4bの該当ページ](https://atcoder.jp/contests/APG4b/tasks/APG4b_x){:target="_blank"}
 
-### コメント
+## コメント
 
 第3章も頑張りましょう～  
-[AtCoder Beginners Selection](https://atcoder.jp/contests/abs)も同時進行で進めるといいと思います。
+[AtCoder Beginners Selection](https://atcoder.jp/contests/abs){:target="_blank"} も同時進行で進めるといいと思います。
 
-### 演習問題
+## 演習問題
 
 無し

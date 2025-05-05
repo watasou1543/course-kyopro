@@ -13,6 +13,13 @@ theme:
   favicon: assets/img/favicon.ico
   features:
     - navigation.tabs
+  palette:
+    scheme: default
+    primary: grey
+    accent: blue grey
+
+extra_css:
+  - assets/css/extra.css
 
 markdown_extensions:
   # https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown/#attribute-lists

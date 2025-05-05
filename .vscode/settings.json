@@ -14,5 +14,8 @@
     "[markdown]": {
         "editor.defaultFormatter": "yzhang.markdown-all-in-one",
         "editor.wordWrap": "bounded"
-    }
+    },
+    "markdownlint.config": {
+        "MD046": false,
+    },
 }

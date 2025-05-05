@@ -11,8 +11,7 @@
 Pythonが整備された環境で、以下のコマンドを実行してください。
 
 ```sh
-pip install mkdocs
-pip install mkdocs-material
+pip install -r requirements.txt
 ```
 
 `mkdocs serve` を実行しながら、<http://127.0.0.1:8000/course-kyopro/> にアクセスしてください。
